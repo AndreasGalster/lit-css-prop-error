@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name" : "netly",
+      "script" : "webserver.js"
+    }
+  ]
+}
